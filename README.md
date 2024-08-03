@@ -1,4 +1,4 @@
-# Business-searcher NoSQL Project 
+# Business-Searcher NoSQL Project 
 
 Project Overview
 
